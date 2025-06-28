@@ -1,6 +1,8 @@
+<div align="center">
+
 # 👋 Hey there, I'm Ashish!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=false&vCenter=false&width=480&lines=%F0%9F%8E%93+B.Tech+CSE+Student;%F0%9F%92%BB+Full+Stack+MERN+Developer;%F0%9F%9B%A0%EF%B8%8F+Working+on+Projects;%F0%9F%A4%96+AI+%26+Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=%F0%9F%8E%93+B.Tech+CSE+Student;%F0%9F%92%BB+Full+Stack+MERN+Developer;%F0%9F%9B%A0%EF%B8%8F+Working+on+Projects;%F0%9F%A4%96+AI+%26+Tech+Enthusiast)
 
 ---
 
@@ -38,10 +40,10 @@ I'm a passionate full stack developer skilled in building modern web application
 
 ## 🏆 Achievements
 
-- 🥇 **Smart India Hackathon 2024** — Built *Gigमित्र*, a gig-based freelancing platform selected for the grand finale.
-- 🏁 **DTU Hackathon Finalist** — Selected for the final round of the **Delhi Technological University Hackathon**.
-- 💼 **IBM SkillBuild AI Internship** — Hands-on experience in AI and cloud services.
-- 🧠 **Quiz & Coding Competitions Winner** — Earned several awards in technical events.
+- 🥇 **Smart India Hackathon 2024** — Built *Gigमित्र*, a gig-based freelancing platform selected for the grand finale.  
+- 🏁 **DTU Hackathon Finalist** — Selected for the final round of the **Delhi Technological University Hackathon**.  
+- 💼 **IBM SkillBuild AI Internship** — Hands-on experience in AI and cloud services.  
+- 🧠 **Quiz & Coding Competitions Winner** — Earned several awards in technical events.  
 - 🏀 **Basketball Gold Medalist** — Excelled in inter-school basketball tournaments.
 
 ---
@@ -67,3 +69,5 @@ A podcast discovery platform that helps users explore trending podcasts by categ
 ---
 
 _“Always learning. Always building.”_
+
+</div>
