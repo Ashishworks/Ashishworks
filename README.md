@@ -44,7 +44,6 @@ I'm a passionate full stack developer skilled in building modern web application
 
 ## 🏆 Achievements
 
-- 🥇 **Smart India Hackathon 2024** — Built *Gigमित्र*, a gig-based freelancing platform selected for the grand finale.  
 - 🏁 **DTU Hackathon Finalist** — Selected for the final round of the **Delhi Technological University Hackathon**.  
 - 💼 **IBM SkillBuild AI Internship** — Hands-on experience in AI and cloud services.  
 - 🧠 **Quiz & Coding Competitions Winner** — Earned several awards in technical events.  
