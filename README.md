@@ -2,7 +2,11 @@
 
 # 👋 Hey there, I'm Ashish!
 
+**Full Stack Developer | MERN | AI Enthusiast | Making Projects**
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=%F0%9F%8E%93+B.Tech+CSE+Student;%F0%9F%92%BB+Full+Stack+MERN+Developer;%F0%9F%9B%A0%EF%B8%8F+Working+on+Projects;%F0%9F%A4%96+AI+%26+Tech+Enthusiast)
+
+</div>
 
 ---
 
@@ -69,5 +73,3 @@ A podcast discovery platform that helps users explore trending podcasts by categ
 ---
 
 _“Always learning. Always building.”_
-
-</div>
