@@ -29,16 +29,19 @@ I'm a passionate full stack developer skilled in building modern web application
 `MongoDB` · `MySQL` · `SQL`
 
 **Frontend:**  
-`React.js` · `Next.js` · `Tailwind CSS` · `Bootstrap` · `Material UI`
+`React.js` · `Vite` · `Tailwind CSS` · `Bootstrap` · `Material UI`
 
 **Backend:**  
 `Node.js` · `Express.js` · `REST APIs` · `Authentication (JWT, OAuth)`
+
+**AI & Tools:**  
+`Mermaid.js` · `Together AI` · `html2canvas` · `jsPDF`
 
 **State Management:**  
 `Redux` · `Zustand`
 
 **Tools & Platforms:**  
-`Git` · `GitHub` · `Postman` · `Vercel` · `Netlify` · `VS Code` · `Cloudinary`
+`Axios` · `Git` · `GitHub` · `Postman` · `Vercel` · `Render` · `Netlify` · `VS Code` · `Cloudinary`
 
 ---
 
@@ -56,11 +59,12 @@ I'm a passionate full stack developer skilled in building modern web application
 ### 🌍 Wanderlust  
 A full-featured travel booking web app where users can explore, create, and review destinations. Built using **MERN stack**, with features like **authentication**, **search filters**, and **user reviews**.
 
-### 🤝 Gigमित्र  
-A freelancing platform designed for college students and gig workers. Built during the **Smart India Hackathon**, it connects freelancers to short-term job opportunities, with features like **escrow payments**, **profile verification**, and **project tracking**.
-
 ### 🎧 PodVerse  
 A podcast discovery platform that helps users explore trending podcasts by category. Uses the **iTunes API** to fetch real-time podcast data. Built with **React.js**, **Tailwind CSS**, and **API integration** for a smooth user experience.
+
+### 🧠 Planza  
+An AI-powered project management and documentation tool. Users can describe their software project, and Planza generates **Mermaid.js flowcharts** and structured breakdowns using AI. It also allows exporting these diagrams as **PDF** or **PNG**.  
+**Tech used**: React.js, Vite, Tailwind CSS, Node.js, Express.js, Mermaid.js, Together AI, html2canvas, jsPDF
 
 ---
 
